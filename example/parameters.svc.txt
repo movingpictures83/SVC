@@ -1,0 +1,4 @@
+training	plugins/SVC/example/train_data.csv
+traininggroups	plugins/SVC/example/traininggroups.csv
+testing	plugins/SVC/example/test_data.csv
+

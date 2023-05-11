@@ -1,0 +1,2 @@
+Prefix plugins/SVC/example/
+Plugin SVC inputfile parameters.svc.txt outputfile output_svc.csv
